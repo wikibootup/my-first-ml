@@ -1,0 +1,4 @@
+[submodule "gilbut_deeplearning_2"]
+	path = gilbut_deeplearning_2
+	url = https://github.com/gilbutITbook/080228.git
+	branch = master
